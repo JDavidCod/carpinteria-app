@@ -90,7 +90,8 @@
 						</h2>
 					</div>
 
-					<form id="contact_form" action="mail.php" method="POST">
+					<form id="contact_form" action="{{ url('/contactanos') }}" method="POST">
+						@csrf
 						<div class="row">
 							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 								<div class="form_item" data-aos="fade-up" data-aos-delay="100">

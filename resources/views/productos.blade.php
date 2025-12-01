@@ -28,7 +28,7 @@
                     <div class="col-lg-6 col-md-8 col-sm-10 col-xs-12">
                         <div class="section_title mb_60 text-center" data-aos="fade-up" data-aos-delay="100">
                             <h2 class="title_text mb_15">
-                                <span>busca un modelo que se adapte a tus necesidades</span>
+                                <span>Busca un modelo que se adapte a tus necesidades</span>
                             </h2>
                             <p class="mb-0">
                                 Descubre nuestra coleccion de muebles y diseños en madera, con un solo clic podras encontrar

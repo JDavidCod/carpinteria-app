@@ -11,10 +11,9 @@
     {{-- <link rel="shortcut icon" href="assets/images/logo/logo5.png"> --}}
     <link rel="shortcut icon" href="{{ asset('assets/images/logo/logo5.png') }}">
 
-    {{-- @vite(['resources/css/app.css', 'resources/js/app.js'])
- --}}
-    <!-- fraimwork - css include -->
-    {{-- <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}"> --}}
+    {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
+
+
     <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/fontawesome.css">
     <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/aos.css">
@@ -26,8 +25,9 @@
     <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/jquery-ui.css">
     <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/style.css">
 
-
-{{--     <!-- icon - css include -->
+{{-- <!-- fraimwork - css include -->
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
+     <!-- icon - css include -->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.css') }}">
 
     <!-- animation - css include -->
@@ -104,9 +104,9 @@
 
                     <div class="col-lg-5">
                         <ul class="primary_social_links ul_li_right clearfix">
-                            <li><a href="https://www.facebook.com/jesusdavid.castrejon"><i
+                            <li><a href="https://www.facebook.com/apolinario.castrejon"><i
                                         class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="https://www.instagram.com/araon_leo/"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="https://www.instagram.com/araoncastrejon/tagged"><i class="fab fa-instagram"></i></a></li>
                             <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="https://www.youtube.com/@davidcastrejoncastrejon1487"><i
                                         class="fab fa-youtube"></i></a></li>
@@ -136,63 +136,6 @@
                                 </button>
                             </li>
                             <li class="dropdown">
-                                <button type="button" class="cart_btn" id="cart_dropdown" data-toggle="dropdown"
-                                    aria-haspopup="true" aria-expanded="false">
-                                    <i class="fal fa-shopping-cart"></i>
-                                    <span class="cart_counter bg_default_red">3</span>
-                                </button>
-                                <div class="cart_dropdown rotors_dropdown dropdown-menu"
-                                    aria-labelledby="cart_dropdown">
-                                    <h4 class="wrap_title">Cart Items: (3)</h4>
-                                    <ul class="cart_items_list ul_li_block clearfix">
-                                        <li>
-                                            <div class="item_image">
-                                                <img src="assets/images/cart/img_2.png" alt="image_not_found">
-                                            </div>
-                                            <div class="item_content">
-                                                <h4 class="item_title">Digital Infrared Thermometer</h4>
-                                                <span class="item_price">$39.50</span>
-                                            </div>
-                                            <button type="button" class="remove_btn"><i
-                                                    class="fal fa-times"></i></button>
-                                        </li>
-
-                                        <li>
-                                            <div class="item_image">
-                                                <img src="assets/images/cart/img_2.png" alt="image_not_found">
-                                            </div>
-                                            <div class="item_content">
-                                                <h4 class="item_title">Digital Infrared Thermometer</h4>
-                                                <span class="item_price">$39.50</span>
-                                            </div>
-                                            <button type="button" class="remove_btn"><i
-                                                    class="fal fa-times"></i></button>
-                                        </li>
-
-                                        <li>
-                                            <div class="item_image">
-                                                <img src="assets/images/cart/img_2.png" alt="image_not_found">
-                                            </div>
-                                            <div class="item_content">
-                                                <h4 class="item_title">Digital Infrared Thermometer</h4>
-                                                <span class="item_price">$39.50</span>
-                                            </div>
-                                            <button type="button" class="remove_btn"><i
-                                                    class="fal fa-times"></i></button>
-                                        </li>
-                                    </ul>
-                                    <ul class="btns_group ul_li_block clearfix">
-                                        <li><a href="cart.html" class="custom_btn bg_default_red text-uppercase">View
-                                                Cart <img src="assets/images/icons/icon_01.png"
-                                                    alt="icon_not_found"></a></li>
-                                        <li><a href="#!"
-                                                class="custom_btn bg_default_black text-uppercase">Checkout <img
-                                                    src="assets/images/icons/icon_01.png" alt="icon_not_found"></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            <li class="dropdown">
                                 <button type="button" class="user_btn" id="user_dropdown" data-toggle="dropdown"
                                     aria-haspopup="true" aria-expanded="false">
                                     <i class="fal fa-user"></i>
@@ -208,11 +151,6 @@
                                             <span class="user_title">Gerente</span>
                                         </div>
                                     </div>
-                                    <ul class="ul_li_block clearfix">
-                                        <li><a href="#!"><i class="fal fa-user-circle"></i> Profile</a></li>
-                                        <li><a href="#!"><i class="fal fa-user-cog"></i> Ajustes</a></li>
-                                        <li><a href="#!"><i class="fal fa-sign-out"></i> Cerrar sesión</a></li>
-                                    </ul>
                                 </div>
                             </li>
                             <li>
@@ -290,15 +228,6 @@
                     </li>
                 </ul>
             </div>
-
-            <div class="booking_car_form">
-                <h3 class="title_text text-white mb-2">Book A Car</h3>
-                <p class="mb_15">
-                    Nullam id dolor auctor, dignissim magna eu, mattis ante. Pellentesque tincidunt, elit a facilisis
-                    efficitur.
-                </p>
-            </div>
-
         </div>
         <div class="overlay"></div>
     </div>
@@ -331,18 +260,6 @@
                                 utilizando técnicas tradicionales y modernas para satisfacer las necesidades de nuestros
                                 clientes.
                             </p>
-                            {{-- <div class="footer_useful_links mb_30">
-									<ul class="ul_li_block clearfix">
-										<li><a href="#!"><i class="fal fa-angle-right"></i> Rental Information</a></li>
-										<li><a href="#!"><i class="fal fa-angle-right"></i> F.A.Q.</a></li>
-									</ul>
-								</div> --}}
-                            {{-- <div class="form_item mb-0">
-									<form action="#">
-										<input id="footer_search" type="search" name="search" placeholder="Search">
-										<label for="footer_search" class="input_icon"><i class="fal fa-search"></i></label>
-									</form>
-								</div> --}}
                         </div>
                     </div>
 
@@ -455,8 +372,8 @@
 <!-- custom - jquery include -->
 <script src="{{ secure_asset('assets/js/custom.js') }}"></script>
 
-{{-- 
-    <!-- fraimwork - jquery include -->
+
+{{--     <!-- fraimwork - jquery include -->
     <script src="{{ asset('assets/js/jquery-3.5.1.min.js') }}"></script>
     <script src="{{ asset('assets/js/popper.min.js') }}"></script>
     <script src="{{ asset('assets/js/bootstrap.min.js') }}"></script>
@@ -497,8 +414,8 @@
     <script src="{{ asset('assets/js/mCustomScrollbar.js') }}"></script>
 
     <!-- custom - jquery include -->
-    <script src="{{ asset('assets/js/custom.js') }}"></script>
- --}}
+    <script src="{{ asset('assets/js/custom.js') }}"></script> --}}
+
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const stars = document.querySelectorAll('.star-item');

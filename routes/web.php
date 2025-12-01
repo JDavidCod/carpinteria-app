@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ReviewController;
 use Illuminate\Pagination\Paginator;
 use Illuminate\Support\Collection;
+use App\Http\Controllers\ContactController;
 use Illuminate\Pagination\LengthAwarePaginator;
 
 Route::get('/', function () {
@@ -15,11 +16,13 @@ Route::get('/', function () {
 
 Route::get('/contactanos', function () {
     return view('contactanos');
-});
+})->name('contactanos');
 
 Route::get('/nosotros', function () {
     return view('nosotros');
 });
+
+Route::post('/contactanos', [ContactController::class, 'send'])->name('contact.send');
 
 Route::get('/servicios', function () {
     
@@ -33,7 +36,7 @@ Route::get('/productos', function () {
 
     $models = require __DIR__ . '/../app/data/gallery_models.php';
     $modelsCollection = new Collection($models);
-    $perPage = 6;
+    $perPage = 12;
     $currentPage = LengthAwarePaginator::resolveCurrentPage();
     $offset = ($currentPage * $perPage) - $perPage;
     $galleryModels = new LengthAwarePaginator(

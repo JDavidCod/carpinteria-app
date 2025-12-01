@@ -136,7 +136,7 @@
                             </p>
                             <p>Tabla seca: 3/4",1",1.5",2"... x 4" a más x largos variados </p>
                             <a class="text_btn text-uppercase"
-                                href="https://wa.me/51921194256?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Cedro.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
+                                href="https://wa.me/51974257017?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Cedro.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
                                 target="_blank""><span>Realizar Cotización</span>
                                 <img src="assets/images/icons/icon_02.png" alt="icon_not_found">
                             </a>
@@ -152,7 +152,7 @@
                             </p>
                             <p>Tabla seca: 3/4",1",1.5",2"... x 4" a más x largos variados </p>
                             <a class="text_btn text-uppercase"
-                                href="https://wa.me/51921194256?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Eucalipto.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
+                                href="https://wa.me/51974257017?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Eucalipto.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
                                 target="_blank"><span>Realizar Cotización</span>
                                 <img src="assets/images/icons/icon_02.png" alt="icon_not_found">
                             </a>
@@ -170,7 +170,7 @@
                             </p>
                             <p>Tabla seca: 3/4",1",1.5",2"... x 4" a más x largos variados </p>
                             <a class="text_btn text-uppercase"
-                                href="https://wa.me/51921194256?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Huayruro.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
+                                href="https://wa.me/51974257017?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Huayruro.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
                                 target="_blank"><span>Realizar Cotización</span>
                                 <img src="assets/images/icons/icon_02.png" alt="icon_not_found">
                             </a>
@@ -186,7 +186,7 @@
                             </p>
                             <p>Tabla seca: 3/4",1",1.5",2"... x 4" a más x largos variados</p>
                             <a class="text_btn text-uppercase"
-                                href="https://wa.me/51921194256?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Mohena.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
+                                href="https://wa.me/51974257017?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Mohena.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
                                 target="_blank">
                                 <span>Realizar Cotización</span>
                                 <img src="assets/images/icons/icon_02.png" alt="icon_not_found">
@@ -205,7 +205,7 @@
                             </p>
                             <p>Tabla seca: 3/4",1",1.5",2"... x 4" a más x largos variados</p>
                             <a class="text_btn text-uppercase"
-                                href="https://wa.me/51921194256?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Pino.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
+                                href="https://wa.me/51974257017?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Pino.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
                                 target="_blank">
                                 <span>Realizar Cotización</span>
                                 <img src="assets/images/icons/icon_02.png" alt="icon_not_found">
@@ -221,7 +221,7 @@
                             </p>
                             <p>Tabla seca: 3/4",1",1.5",2"... x 4" a más x largos variados</p>
                             <a class="text_btn text-uppercase"
-                                href="https://wa.me/51921194256?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Tornillo.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
+                                href="https://wa.me/51974257017?text=Solicitud%20de%20Cotizaci%C3%B3n%20de%20madera%20de%20Tornillo.%20%0AMe%20pongo%20en%20contacto%20con%20ustedes%20para%20solicitar%20una%20cotizaci%C3%B3n%20%0AAgradezco%20de%20antemano%20su%20atenci%C3%B3n."
                                 target="_blank">
                                 <span>Realizar Cotización</span> <img src="assets/images/icons/icon_02.png"
                                     alt="icon_not_found"></a>
@@ -242,7 +242,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <div class="funfact_item text-center text-white" data-aos="fade-up" data-aos-delay="100"
                             data-aos-once="true">
-                            <h3 class="counter_text text-white mb-0"><span class="counter">2000</span>+</h3>
+                            <h3 class="counter_text text-white mb-0"><span class="counter">4000</span>+</h3>
                             <small class="line bg_default_red"></small>
                             <p class="item_title mb-0">Trabajos Satisfechos</p>
                         </div>

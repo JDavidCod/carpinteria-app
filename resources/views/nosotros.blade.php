@@ -81,9 +81,9 @@
                                 data-aos-delay="100">
                                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                                     <ul class="primary_social_links ul_li clearfix">
-                                        <li><a href="#!"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#!"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#!"><i class="fab fa-whatsapp"></i></a></li>
+                                        <li><a href="https://www.facebook.com/apolinario.castrejon"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.instagram.com/araoncastrejon/tagged"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://wa.me/51974257017"><i class="fab fa-whatsapp"></i></a></li>
                                     </ul>
                                 </div>
 
@@ -186,26 +186,14 @@
                     <div class="gallery_fullimage" data-aos="fade-up" data-aos-delay="100">
                         <img src="assets/images/blog/img_07.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <p>
-                                Phasellus porta pulvinar metus, sit amet bibendum lectus hendrerit vel. Duis ullamcorper,
-                                justo quis hendrerit venenatis, purus mi volutpat dui, vel commodo urna eros eget sapien
-                            </p>
-                            <a class="text_btn text-uppercase" href="#!"><span>Find A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Puertas de Exterior en Huayruro</h3>
                         </div>
                     </div>
 
                     <div class="gallery_fullimage" data-aos="fade-up" data-aos-delay="300">
                         <img src="assets/images/blog/img_08.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <p>
-                                Phasellus porta pulvinar metus, sit amet bibendum lectus hendrerit vel. Duis ullamcorper,
-                                justo quis hendrerit venenatis, purus mi volutpat dui, vel commodo urna eros eget sapien
-                            </p>
-                            <a class="text_btn text-uppercase" href="#!"><span>Find A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Mueble Alto de Cocina (Repostero)</h3>
                         </div>
                     </div>
                 </div>
@@ -214,26 +202,14 @@
                     <div class="gallery_fullimage" data-aos="fade-up" data-aos-delay="100">
                         <img src="assets/images/blog/img_01.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <p>
-                                Phasellus porta pulvinar metus, sit amet bibendum lectus hendrerit vel. Duis ullamcorper,
-                                justo quis hendrerit venenatis, purus mi volutpat dui, vel commodo urna eros eget sapien
-                            </p>
-                            <a class="text_btn text-uppercase" href="#!"><span>Find A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Mueble Bajo de Cocina (Repostero)</h3>
                         </div>
                     </div>
 
                     <div class="gallery_fullimage" data-aos="fade-up" data-aos-delay="300">
                         <img src="assets/images/blog/img_09.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <p>
-                                Phasellus porta pulvinar metus, sit amet bibendum lectus hendrerit vel. Duis ullamcorper,
-                                justo quis hendrerit venenatis, purus mi volutpat dui, vel commodo urna eros eget sapien
-                            </p>
-                            <a class="text_btn text-uppercase" href="#!"><span>Find A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Armario Modular con Diseño Nórdico</h3>
                         </div>
                     </div>
                 </div>
@@ -253,10 +229,7 @@
                     <div class="gallery_fullimage_2">
                         <img src="assets/images/gallery/img_03.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <span class="item_price bg_default_blue">$670/Day</span>
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <a class="text_btn text-uppercase" href="#!"><span>Kook A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Juego de Sala Esquinero Premium</h3>
                         </div>
                     </div>
                 </div>
@@ -265,10 +238,7 @@
                     <div class="gallery_fullimage_2">
                         <img src="assets/images/gallery/img_04.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <span class="item_price bg_default_blue">$670/Day</span>
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <a class="text_btn text-uppercase" href="#!"><span>Kook A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Cama Matrimonial con Cajones y Repisa</h3>
                         </div>
                     </div>
                 </div>
@@ -277,10 +247,7 @@
                     <div class="gallery_fullimage_2">
                         <img src="assets/images/gallery/img_05.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <span class="item_price bg_default_blue">$670/Day</span>
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <a class="text_btn text-uppercase" href="#!"><span>Kook A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Sofá Modular y Mesa de Centro para Sala</h3>
                         </div>
                     </div>
                 </div>
@@ -289,10 +256,7 @@
                     <div class="gallery_fullimage_2">
                         <img src="assets/images/gallery/img_06.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <span class="item_price bg_default_blue">$670/Day</span>
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <a class="text_btn text-uppercase" href="#!"><span>Kook A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Juego de Sofás y Mesas de Madera Rústica</h3>
                         </div>
                     </div>
                 </div>
@@ -301,10 +265,7 @@
                     <div class="gallery_fullimage_2">
                         <img src="assets/images/gallery/img_07.jpg" alt="image_not_found">
                         <div class="item_content text-white">
-                            <span class="item_price bg_default_blue">$670/Day</span>
-                            <h3 class="item_title text-white">Phasellus porta pulvinar metus</h3>
-                            <a class="text_btn text-uppercase" href="#!"><span>Kook A Car</span> <img
-                                    src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
+                            <h3 class="item_title text-white">Cama de Almacenamiento con Cabecera Integrada</h3>
                         </div>
                     </div>
                 </div>

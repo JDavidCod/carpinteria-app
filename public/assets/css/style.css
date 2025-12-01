@@ -1565,16 +1565,6 @@ button {
   margin-right: 6px;
 }
 
-.valor3{
-    /* font-size: 90px; */
-    text-align: right;
-    background-image: url('../img/ecologia2.jpg');
-    background-size: cover;
-    background-position-y: center;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
 
 /* 03 - footer - end
 ==================================================================================================== */
@@ -3970,6 +3960,46 @@ blockquote h4 {
   .main_office_section .item_title {
     font-size: 42px;
   }
+  .valores {
+    width: 100%;
+    height: auto;
+    text-transform: uppercase;
+    text-align: center; /* Añadido para centrar todo el contenido */
+    line-height: 1.2; /* Ajusta el espacio entre las líneas */
+    overflow: hidden; /* Evita que el texto se desborde fuera del contenedor */
+    background: linear-gradient( #000000, #2f1313);
+}
+
+
+  .valor1 {
+    font-size: 130px; /* Aumenta el tamaño del texto */
+    text-align: left;
+    background-image: url('/img/ecologia2.jpg');
+    background-size: cover;
+    background-position-y: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.valor2 h2{
+    font-size: 130px; /* Aumenta aún más el tamaño */
+    text-align: center;
+    background-image: url('/img/verde.jpg');
+    background-size: cover;
+    background-position-y: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.valor3 {
+    font-size: 130px; /* Para el tercer valor, también lo aumento */
+    text-align: right;
+    background-image: url('/img/verde.jpg');
+    background-size: cover;
+    background-position-y: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 
   /* contact - end */
 }
@@ -4424,6 +4454,9 @@ blockquote h4 {
   .offer_info .item_title {
     font-size: 20px;
   }
+  .valor2 h2{
+    font-size: 60px;
+  }
 
   .testimonial_contants_wrap .item_title {
     font-size: 30px;
@@ -4467,42 +4500,5 @@ blockquote h4 {
 9 - media screen and (max-width: 320px) - end
 ==================================================================================================== */
 
-.valores {
-    width: 100%;
-    height: auto;
-    text-transform: uppercase;
-    text-align: center; /* Añadido para centrar todo el contenido */
-    line-height: 1.2; /* Ajusta el espacio entre las líneas */
-    overflow: hidden; /* Evita que el texto se desborde fuera del contenedor */
-    background: linear-gradient( #000000, #2f1313);
-}
 
-.valor1 {
-    font-size: 130px; /* Aumenta el tamaño del texto */
-    text-align: left;
-    background-image: url('../img/ecologia2.jpg');
-    background-size: cover;
-    background-position-y: center;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 
-.valor2 h2{
-    font-size: 130px; /* Aumenta aún más el tamaño */
-    text-align: center;
-    background-image: url('../img/verde.jpg');
-    background-size: cover;
-    background-position-y: center;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
-
-.valor3 {
-    font-size: 130px; /* Para el tercer valor, también lo aumento */
-    text-align: right;
-    background-image: url('../img/verde.jpg');
-    background-size: cover;
-    background-position-y: center;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}

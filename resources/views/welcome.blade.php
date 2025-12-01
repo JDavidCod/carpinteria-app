@@ -293,8 +293,8 @@
 
 			<!-- inicio de la sección de nuestos servicios
 			================================================== -->
-			<section class="service_section {{-- sec_ptb_150 pb-0 mb_100 --}} text-white clearfix"
-			style="background: url('assets/images/fondos_carpinteria/servicio.jpg');
+			<section class="service_section text-white clearfix"
+			style="background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('assets/images/fondos_carpinteria/servicio.jpg');
                 background-size: cover;
                 background-position: center;
                 background-repeat: no-repeat;
@@ -380,55 +380,13 @@
 							</div>
 						</div>
 					</div>
-
-					{{-- <div class="feature_carousel_wrap position-relative clearfix">
-						<div class="slideshow1_slider" data-aos="fade-up" data-aos-delay="100">
-							<div class="item">
-								<div class="feature_fullimage">
-									<img src="assets/images/fondos_carpinteria/fondo.png" alt="image_not_found">
-									<div class="item_content text-white">
-										<span class="item_price bg_default_blue">$670/Day</span>
-										<h3 class="item_title text-white">2017 Chevrolet Corvette C7 Stingray  </h3>
-										<a class="text_btn text-uppercase" href="#!"><span>Kook A Car</span> <img src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
-									</div>
-								</div>
-							</div>
-
-							<div class="item">
-								<div class="feature_fullimage">
-									<img src="assets/images/fondos_carpinteria/madera2.jpeg" alt="image_not_found">
-									<div class="item_content text-white">
-										<span class="item_price bg_default_blue">$670/Day</span>
-										<h3 class="item_title text-white">2017 Chevrolet Corvette C7 Stingray  </h3>
-										<a class="text_btn text-uppercase" href="#!"><span>Kook A Car</span> <img src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
-									</div>
-								</div>
-							</div>
-
-							<div class="item">
-								<div class="feature_fullimage">
-									<img src="assets/images/fondos_carpinteria/taller.png" alt="image_not_found">
-									<div class="item_content text-white">
-										<span class="item_price bg_default_blue">$670/Day</span>
-										<h3 class="item_title text-white">2017 Chevrolet Corvette C7 Stingray  </h3>
-										<a class="text_btn text-uppercase" href="#!"><span>Kook A Car</span> <img src="assets/images/icons/icon_02.png" alt="icon_not_found"></a>
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="carousel_nav">
-							<button type="button" class="s1_left_arrow"><i class="fal fa-angle-left"></i></button>
-							<button type="button" class="s1_right_arrow"><i class="fal fa-angle-right"></i></button>
-						</div>
-					</div> --}}
 				</div>
 			</section>
 			<!-- fin de la sección de nuestos servicios
 			================================================== -->
 
 
-			<!-- incio de la seccion de valores de la emopresa
+			<!-- incio de la seccion de valores de la empresa
 			================================================== -->
 			<section class="blog_section clearfix">
 				<div class="container sec_ptb_150 pb-0 mb_100">

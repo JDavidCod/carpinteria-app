@@ -1565,15 +1565,6 @@ button {
   margin-right: 6px;
 }
 
-.valor3{
-    /* font-size: 90px; */
-    text-align: right;
-    background-image: url('../img/ecologia2.jpg');
-    background-size: cover;
-    background-position-y: center;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-}
 
 
 /* 03 - footer - end
