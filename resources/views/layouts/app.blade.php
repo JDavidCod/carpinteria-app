@@ -16,8 +16,18 @@
     <!-- fraimwork - css include -->
     {{-- <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}"> --}}
     <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/fontawesome.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/aos.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/animate.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/slick.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/magnific-popup.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/nice-select.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="https://carpinteriaaraon.up.railway.app/assets/css/style.css">
 
-    <!-- icon - css include -->
+
+{{--     <!-- icon - css include -->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/fontawesome.css') }}">
 
     <!-- animation - css include -->
@@ -38,7 +48,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/jquery-ui.css') }}">
 
     <!-- custom - css include -->
-    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}"> --}}
 
 
 <body>
@@ -402,6 +412,50 @@
   ================================================== -->
 
 
+  <!-- fraimwork - jquery include -->
+<script src="{{ secure_asset('assets/js/jquery-3.5.1.min.js') }}"></script>
+<script src="{{ secure_asset('assets/js/popper.min.js') }}"></script>
+<script src="{{ secure_asset('assets/js/bootstrap.min.js') }}"></script>
+
+<!-- animation - jquery include -->
+<script src="{{ secure_asset('assets/js/aos.js') }}"></script>
+<script src="{{ secure_asset('assets/js/parallaxie.js') }}"></script>
+
+<!-- carousel - jquery include -->
+<script src="{{ secure_asset('assets/js/slick.min.js') }}"></script>
+
+<!-- popup - jquery include -->
+<script src="{{ secure_asset('assets/js/magnific-popup.min.js') }}"></script>
+
+<!-- select options - jquery include -->
+<script src="{{ secure_asset('assets/js/nice-select.min.js') }}"></script>
+
+<!-- isotope - jquery include -->
+<script src="{{ secure_asset('assets/js/isotope.pkgd.js') }}"></script>
+<script src="{{ secure_asset('assets/js/imagesloaded.pkgd.min.js') }}"></script>
+<script src="{{ secure_asset('assets/js/masonry.pkgd.min.js') }}"></script>
+
+<!-- google map - jquery include (ya está en https, esto está bien) -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDk2HrmqE4sWSei0XdKGbOMOHN3Mm2Bf-M&ver=2.1.6"></script>
+<script src="{{ secure_asset('assets/js/gmaps.min.js') }}"></script>
+
+<!-- pricing range - jquery include -->
+<script src="{{ secure_asset('assets/js/jquery-ui.js') }}"></script>
+
+<!-- counter - jquery include -->
+<script src="{{ secure_asset('assets/js/waypoint.js') }}"></script>
+<script src="{{ secure_asset('assets/js/counterup.min.js') }}"></script>
+
+<!-- contact form - jquery include -->
+<script src="{{ secure_asset('assets/js/validate.js') }}"></script>
+
+<!-- mobile menu - jquery include -->
+<script src="{{ secure_asset('assets/js/mCustomScrollbar.js') }}"></script>
+
+<!-- custom - jquery include -->
+<script src="{{ secure_asset('assets/js/custom.js') }}"></script>
+
+{{-- 
     <!-- fraimwork - jquery include -->
     <script src="{{ asset('assets/js/jquery-3.5.1.min.js') }}"></script>
     <script src="{{ asset('assets/js/popper.min.js') }}"></script>
@@ -444,7 +498,7 @@
 
     <!-- custom - jquery include -->
     <script src="{{ asset('assets/js/custom.js') }}"></script>
-
+ --}}
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const stars = document.querySelectorAll('.star-item');
