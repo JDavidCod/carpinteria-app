@@ -1730,7 +1730,7 @@ if(iOSVersion>=6){
 
 }
 
-function iOSVersion(){
+/* function iOSVersion() */ window.iOSVersion=function(){
 
 	var agent=window.navigator.userAgent,
 

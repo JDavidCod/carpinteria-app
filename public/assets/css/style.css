@@ -1,4 +1,3 @@
-@charset "UTF-8";
 /* table of content - start
 ==================================================================================================== */
 /* 
@@ -68,7 +67,6 @@ body {
   color: #ffffff;
   background-color: #EA001E;
 }
-
 main {
   overflow: hidden;
   position: relative;
@@ -155,6 +153,25 @@ hr {
 .form_item textarea {
   min-height: 190px;
   padding: 15px 20px;
+}
+
+/* Puedes añadir esto a tu archivo CSS principal o en una etiqueta <style> temporal */
+
+.star-rating-area {
+    font-size: 1.5em; /* Tamaño de las estrellas */
+    color: #ccc;     /* Color predeterminado (gris claro) */
+    display: flex;   /* Asegura que estén en línea */
+}
+
+.star-item {
+    margin-right: 5px;
+    cursor: pointer; /* Muestra el cursor como clic para indicar interactividad */
+    transition: color 0.2s;
+}
+
+/* Clase que se añade con JavaScript para indicar la calificación */
+.star-item.selected {
+    color: gold; /* Color activo */
 }
 
 .input_title {
@@ -996,7 +1013,7 @@ button {
   background-color: #ffffff;
 }
 
-.header_section .brand_logo img:nth-child(2) {
+/* .header_section .brand_logo img:nth-child(2) {
   display: none;
 }
 .header_section.stuck .brand_logo img:nth-child(1) {
@@ -1004,7 +1021,14 @@ button {
 }
 .header_section.stuck .brand_logo img:nth-child(2) {
   display: inline-block;
+} */
+.brand_logo img {
+  /* max-width: 200px; */ /* limita el tamaño máximo */
+  height: auto;     /* mantiene la proporción */
+  display: block;   /* evita espacios raros */
+  margin: 0 auto;   /* centra el logo */
 }
+
 
 .header_contact_info li {
   font-size: 14px;
@@ -1541,12 +1565,23 @@ button {
   margin-right: 6px;
 }
 
+.valor3{
+    /* font-size: 90px; */
+    text-align: right;
+    background-image: url('../img/ecologia2.jpg');
+    background-size: cover;
+    background-position-y: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
 /* 03 - footer - end
 ==================================================================================================== */
 /* 04 - breadcrumb - start
 ==================================================================================================== */
 .page_title_area {
-  min-height: 185px;
+  height: 400px;
   padding: 50px 0px;
 }
 .page_title_area .overlay {
@@ -1555,6 +1590,7 @@ button {
 
 .page_title {
   font-size: 48px;
+  padding: 60px 0 0 0;
 }
 
 .breadcrumb_nav {
@@ -1771,6 +1807,7 @@ button {
 }
 .gallery_fullimage > img {
   width: 100%;
+  height: 65vh;
   display: block;
   transition: 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 }
@@ -1877,6 +1914,7 @@ button {
 }
 .gallery_fullimage_2 > img {
   width: 100%;
+  height: 300px;
   display: block;
   transition: 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 }
@@ -2509,6 +2547,7 @@ button {
 }
 .blog_fullimage > img {
   width: 100%;
+  height: 400px;
   display: block;
   transition: 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 }
@@ -4326,6 +4365,9 @@ blockquote h4 {
 
   /* header - end */
   /* breadcrumb - start */
+  .page_title_area{
+    height: 250px;
+  }
   .page_title {
     font-size: 32px;
   }
@@ -4333,11 +4375,14 @@ blockquote h4 {
   /* breadcrumb - end */
   /* home 1 - start */
   .gallery_fullimage {
-    height: 300px;
+    width: 100%;
+    height: 45vh !important;
     display: flex;
   }
 
   .gallery_fullimage > img {
+    width: 100%;
+    height: 100%;
     object-fit: cover;
   }
 
@@ -4421,3 +4466,43 @@ blockquote h4 {
 /* ====================================================================================================
 9 - media screen and (max-width: 320px) - end
 ==================================================================================================== */
+
+.valores {
+    width: 100%;
+    height: auto;
+    text-transform: uppercase;
+    text-align: center; /* Añadido para centrar todo el contenido */
+    line-height: 1.2; /* Ajusta el espacio entre las líneas */
+    overflow: hidden; /* Evita que el texto se desborde fuera del contenedor */
+    background: linear-gradient( #000000, #2f1313);
+}
+
+.valor1 {
+    font-size: 130px; /* Aumenta el tamaño del texto */
+    text-align: left;
+    background-image: url('../img/ecologia2.jpg');
+    background-size: cover;
+    background-position-y: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.valor2 h2{
+    font-size: 130px; /* Aumenta aún más el tamaño */
+    text-align: center;
+    background-image: url('../img/verde.jpg');
+    background-size: cover;
+    background-position-y: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.valor3 {
+    font-size: 130px; /* Para el tercer valor, también lo aumento */
+    text-align: right;
+    background-image: url('../img/verde.jpg');
+    background-size: cover;
+    background-position-y: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

@@ -11,8 +11,6 @@
     {{-- <link rel="shortcut icon" href="assets/images/logo/logo5.png"> --}}
     <link rel="shortcut icon" href="{{ asset('assets/images/logo/logo5.png') }}">
 
-    {{-- @vite(['resources/css/app.css', 'resources/js/app.js']) --}}
-
     <!-- fraimwork - css include -->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
 
